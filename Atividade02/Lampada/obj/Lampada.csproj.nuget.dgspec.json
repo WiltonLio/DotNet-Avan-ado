@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/wilton-freire-timoteo/Área de trabalho/DotNet Avançado/Lampada/Lampada.csproj": {}
+    "/home/wilton-freire-timoteo/Área de trabalho/DotNet Avançado/Atividade02/Lampada/Lampada.csproj": {}
   },
   "projects": {
-    "/home/wilton-freire-timoteo/Área de trabalho/DotNet Avançado/Lampada/Lampada.csproj": {
+    "/home/wilton-freire-timoteo/Área de trabalho/DotNet Avançado/Atividade02/Lampada/Lampada.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/wilton-freire-timoteo/Área de trabalho/DotNet Avançado/Lampada/Lampada.csproj",
+        "projectUniqueName": "/home/wilton-freire-timoteo/Área de trabalho/DotNet Avançado/Atividade02/Lampada/Lampada.csproj",
         "projectName": "Lampada",
-        "projectPath": "/home/wilton-freire-timoteo/Área de trabalho/DotNet Avançado/Lampada/Lampada.csproj",
+        "projectPath": "/home/wilton-freire-timoteo/Área de trabalho/DotNet Avançado/Atividade02/Lampada/Lampada.csproj",
         "packagesPath": "/home/wilton-freire-timoteo/.nuget/packages/",
-        "outputPath": "/home/wilton-freire-timoteo/Área de trabalho/DotNet Avançado/Lampada/obj/",
+        "outputPath": "/home/wilton-freire-timoteo/Área de trabalho/DotNet Avançado/Atividade02/Lampada/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/wilton-freire-timoteo/.nuget/NuGet/NuGet.Config"
